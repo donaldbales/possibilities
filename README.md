@@ -23,10 +23,13 @@
 
 * Beginning PL/pgSQL
 * Integration
+* Oracle/Java Stored Procedures
 * Parallels
 
 ## Articles
 
+* Monoglot Programming with Java
+* Monoglot Programming with JavaScript
 * Pi & Actuator
 * Pi & Cellular Modem
 * Pi & Data Logger
