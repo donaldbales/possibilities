@@ -8,7 +8,7 @@
 * Equipment Calibrations
 * Equipment Inspections
 * Industrial Hygiene
-* Job Safety Sheet
+* Job Safety Sheets
 * Location-based Demographics
 * Occupational Health
 * Radiological Surveys
@@ -30,6 +30,7 @@
 
 * Monoglot Programming with Java
 * Monoglot Programming with JavaScript
+* Lists of Values
 * Pi & Actuator
 * Pi & Cellular Modem
 * Pi & Data Logger
